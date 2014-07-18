@@ -1,0 +1,14 @@
+.main {
+	width: 700px;
+}
+.l_img {
+	width: 200px;
+	display: inline-block;
+}
+.r_content {
+	width: 400px;
+	display: inline-block;
+}
+.center_header {
+	text-align: m;
+}
